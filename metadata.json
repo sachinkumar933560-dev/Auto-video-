@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VeloStream - AI Video Studio",
+  "description": "An automated AI video generation and scheduling platform using Gemini Veo. Generate cinematic clips from text prompts and manage your social media pipeline in one place.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
